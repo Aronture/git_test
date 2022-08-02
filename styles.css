@@ -1,0 +1,42 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+
+input {
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    color: red;
+    
+}
+
+div {
+    text-align: center;
+    background-color: green;
+    height: 100px;
+    vertical-align: bottom
+}
+
+fieldset {
+    margin-top: 20px;
+    display: inline-block;
+    border: 1px solid black;
+    box-shadow: 2px 3px 5px black;
+}
+
+form {
+    display: inline-block;
+}
+
+legend {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    box-shadow: 2px 3px 5px black;
+}
+
+legend:hover {
+    color: black;
+    cursor: pointer;
+}
